@@ -114,31 +114,31 @@ document.querySelector('#app').innerHTML = `
             <section class="tool-group">
               <span class="tool-group__tag">design</span>
               <div class="tool-icons">
-                <img src="/figma.svg" alt="Figma" />
-                <img src="/photoshop.svg" alt="Photoshop" />
-                <img src="/illustrator.svg" alt="Illustrator" />
-                <img src="/premiere.svg" alt="Premiere Pro" />
-                <img src="/notion.svg" alt="Notion" />
-                <img src="/google_meet.svg" alt="Google Meet" />
+                <img src="/Lab_14_JS_PDF_Material_Wave/figma.svg" alt="Figma" />
+                <img src="/Lab_14_JS_PDF_Material_Wave/photoshop.svg" alt="Photoshop" />
+                <img src="/Lab_14_JS_PDF_Material_Wave/illustrator.svg" alt="Illustrator" />
+                <img src="/Lab_14_JS_PDF_Material_Wave/premiere.svg" alt="Premiere Pro" />
+                <img src="/Lab_14_JS_PDF_Material_Wave/notion.svg" alt="Notion" />
+                <img src="/Lab_14_JS_PDF_Material_Wave/google_meet.svg" alt="Google Meet" />
               </div>
             </section>
 
             <section class="tool-group">
               <span class="tool-group__tag">no-code</span>
               <div class="tool-icons">
-                <img src="/xz_icon1.svg" alt="No-code tool 1" />
-                <img src="/xz_icon2.svg" alt="No-code tool 2" />
-                <img src="/xz_icon3.svg" alt="No-code tool 3" />
-                <img src="/xz_icon4.svg" alt="No-code tool 4" />
+                <img src="/Lab_14_JS_PDF_Material_Wave/xz_icon1.svg" alt="No-code tool 1" />
+                <img src="/Lab_14_JS_PDF_Material_Wave/xz_icon2.svg" alt="No-code tool 2" />
+                <img src="/Lab_14_JS_PDF_Material_Wave/xz_icon3.svg" alt="No-code tool 3" />
+                <img src="/Lab_14_JS_PDF_Material_Wave/xz_icon4.svg" alt="No-code tool 4" />
               </div>
             </section>
 
             <section class="tool-group">
               <span class="tool-group__tag">artificial intelligence</span>
               <div class="tool-icons">
-                <img src="/chatgpt.svg" alt="ChatGPT" />
-                <img src="/copilot.svg" alt="Copilot" />
-                <img src="/midjorney.svg" alt="Midjourney" />
+                <img src="/Lab_14_JS_PDF_Material_Wave/chatgpt.svg" alt="ChatGPT" />
+                <img src="/Lab_14_JS_PDF_Material_Wave/copilot.svg" alt="Copilot" />
+                <img src="/Lab_14_JS_PDF_Material_Wave/midjorney.svg" alt="Midjourney" />
               </div>
             </section>
           </div>
@@ -150,7 +150,7 @@ document.querySelector('#app').innerHTML = `
             <article class="education-item education-item--featured ripple-target">
               <div class="education-item__head">
                 <p class="editable" data-edit-key="edu1Year">2023</p>
-                <span class="education-item__mark"><img src="/heart.svg" alt="Favourite" /></span>
+                <span class="education-item__mark"><img src="/Lab_14_JS_PDF_Material_Wave/heart.svg" alt="Favourite" /></span>
               </div>
               <h3 class="editable" data-edit-key="edu1Title">UI/UX</h3>
               <p class="education-item__tags editable" data-edit-key="edu1Tags">#UX #UI #research #DesignSystem #UI #wireframing #figma #ux</p>
